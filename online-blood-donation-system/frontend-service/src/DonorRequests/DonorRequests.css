@@ -1,0 +1,67 @@
+.donor-requests-container {
+    padding: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.donor-requests-card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.donor-requests-card .card-header {
+    background: linear-gradient(135deg, var(--primary-color, #28a745) 0%, var(--secondary-color, #20c997) 100%);
+    color: white;
+    padding: 20px;
+}
+
+.donor-requests-card .card-header h3 {
+    margin: 0;
+    font-size: 1.8rem;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+    border-top: none;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.badge {
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+}
+
+.badge-warning {
+    background-color: #ffc107;
+    color: #000;
+}
+
+.badge-success {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.text-success {
+    color: #28a745 !important;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .donor-requests-container {
+        padding: 10px;
+    }
+    
+    .donor-requests-card .card-header h3 {
+        font-size: 1.4rem;
+    }
+}

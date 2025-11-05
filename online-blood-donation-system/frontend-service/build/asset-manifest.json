@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23ff9c48.chunk.css",
+    "main.js": "/static/js/main.5a1210a2.chunk.js",
+    "main.js.map": "/static/js/main.5a1210a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90b9179e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90b9179e.js.map",
+    "static/css/2.2ec3db0d.chunk.css": "/static/css/2.2ec3db0d.chunk.css",
+    "static/js/2.279881e1.chunk.js": "/static/js/2.279881e1.chunk.js",
+    "static/js/2.279881e1.chunk.js.map": "/static/js/2.279881e1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ea33cf37639c6f8119b59e978f4ff486.js": "/precache-manifest.ea33cf37639c6f8119b59e978f4ff486.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2ec3db0d.chunk.css.map": "/static/css/2.2ec3db0d.chunk.css.map",
+    "static/css/main.23ff9c48.chunk.css.map": "/static/css/main.23ff9c48.chunk.css.map",
+    "static/js/2.279881e1.chunk.js.LICENSE.txt": "/static/js/2.279881e1.chunk.js.LICENSE.txt",
+    "static/media/blood-bank.jpg": "/static/media/blood-bank.33eaeccd.jpg",
+    "static/media/blood-donation.jpg": "/static/media/blood-donation.67dc7e80.jpg",
+    "static/media/blood-needed.jpg": "/static/media/blood-needed.e4f2a924.jpg",
+    "static/media/blood-types.png": "/static/media/blood-types.fda7b620.png",
+    "static/media/contact.jpg": "/static/media/contact.e4c201e0.jpg",
+    "static/media/image1.jpeg": "/static/media/image1.bdffb6f5.jpeg",
+    "static/media/image2.png": "/static/media/image2.6ecd83cf.png",
+    "static/media/image3.jpg": "/static/media/image3.63dacce1.jpg",
+    "static/media/image4.jpg": "/static/media/image4.43aee4e0.jpg",
+    "static/media/image5.jpg": "/static/media/image5.5a68432a.jpg",
+    "static/media/image6.jpg": "/static/media/image6.55761257.jpg",
+    "static/media/register.jpg": "/static/media/register.275599d1.jpg",
+    "static/media/search-donor.png": "/static/media/search-donor.228a05a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90b9179e.js",
+    "static/css/2.2ec3db0d.chunk.css",
+    "static/js/2.279881e1.chunk.js",
+    "static/css/main.23ff9c48.chunk.css",
+    "static/js/main.5a1210a2.chunk.js"
+  ]
+}

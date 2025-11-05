@@ -1,0 +1,86 @@
+.container {
+    min-height: 80vh;
+    padding: 20px;
+}
+
+.pageHeading {
+    margin-top: 100px;
+    color: #bb0a1e;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card {
+    box-shadow: 0px 1px 10px 4px rgba(187, 10, 30, 0.2);
+    margin-bottom: 20px;
+}
+
+.cardHeader {
+    background-color: #bb0a1e;
+    color: white;
+    padding: 15px 20px;
+}
+
+.cardHeader h4 {
+    margin: 0;
+    font-weight: bold;
+}
+
+.cardHeader p {
+    margin: 5px 0 0 0;
+    font-size: 0.9rem;
+}
+
+.tableWrapper {
+    overflow-x: auto;
+}
+
+.requestCard {
+    margin-bottom: 25px;
+    border: 2px solid #e0e0e0;
+    transition: all 0.3s ease;
+}
+
+.requestCard:hover {
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+    border-color: #bb0a1e;
+}
+
+.requestHeader {
+    background-color: #f8f9fa;
+    border-bottom: 2px solid #bb0a1e;
+}
+
+.requestHeader h5 {
+    margin: 0;
+    color: #333;
+    font-weight: bold;
+}
+
+.prescriptionImage {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.prescriptionImage:hover {
+    transform: scale(1.05);
+}
+
+.btn-link {
+    padding: 0;
+    vertical-align: baseline;
+}
+
+@media (max-width: 768px) {
+    .pageHeading {
+        margin-top: 80px;
+        font-size: 1.5rem;
+    }
+    
+    .requestCard {
+        margin-bottom: 20px;
+    }
+}
