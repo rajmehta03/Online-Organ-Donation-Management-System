@@ -1,0 +1,54 @@
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+*/target/
+*/build/
+
+# IDE files
+*.iml
+*.iws
+*.ipr
+.idea/
+.vscode/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Log files
+*.log
+
+# Database files
+*.h2.db
+*.mv.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled class file
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse
+.settings/
+bin/
+*.tmp
+.metadata
+*.tmp
+*.bak
+tmp/
+temp/
